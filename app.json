@@ -1,0 +1,7 @@
+{
+  "name": "VisionExplorer",
+  "displayName": "VisionExplorer",
+  "plugins": [
+    "expo-sqlite"
+  ]
+}
